@@ -1,0 +1,9 @@
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.selected{
+    color: tomato;
+    cursor: pointer;
+}
